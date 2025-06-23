@@ -46,10 +46,11 @@ Train a lightweight CNN to distinguish rock, paper, and scissors hand poses usin
 
   Training: Adam optimizer, categorical crossentropy, 10 epochs, batch size 32
 
+  Performance: ~96% test accuracy
 
 
 👤 **Author**
 
   Farzaneh Yousefi
 
-Performance: ~96% test accuracy
+
