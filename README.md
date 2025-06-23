@@ -10,7 +10,6 @@ Train a lightweight CNN to distinguish rock, paper, and scissors hand poses usin
 ├── data/ # 300×300 images (train/, valid/, test/)
 └── code/ # Training scripts & notebooks
 
-
 ---
 
 ## 🚀 Quickstart
