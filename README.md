@@ -29,11 +29,11 @@ Train a lightweight CNN to distinguish rock, paper, and scissors hand poses usin
 
 4. **Evaluate & visualize**
 
-   Saved model: models/rps_cnn.h5
+      Saved model: models/rps_cnn.h5
 
-  Loss curve: figures/loss_curve.png
+     Loss curve: figures/loss_curve.png
 
-  Confusion matrix: figures/confusion_matrix.png
+     Confusion matrix: figures/confusion_matrix.png
 
 
 
